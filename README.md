@@ -9,4 +9,4 @@ GithubPageJet is an application which can be used to build a website on the top 
 
 Go to the official repository of the application - https://github.com/githubpagejet/GithubPageJet.
 
-*Note: This application is inspired by ["FrameworkJet"](https://github.com/frameworkjet/FrameworkJet)*
+*Note: This application is inspired by ["FrameworkJet"](https://github.com/frameworkjet/FrameworkJet).*
