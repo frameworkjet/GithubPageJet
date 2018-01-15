@@ -3,9 +3,15 @@
 
 GithubPageJet is an application which can be used to build a website on the top of "Github pages" service *(check: https://pages.github.com)*. It covers the following goals:
 - **Easy way to build a website on "Github pages"**.
-- *(optional)* **Integration with jQuery and option to execute AJAX requests**.
-- *(optional)* **Option to use the application on your own server**.
-- *(optional)* **Additional libraries like - grunt, handlebars, etc.**.
+- To work **as light as possible**, without additional heavy libraries and dependencies.
+
+Also:
+- Implemented **jQuery** and option to execute **AJAX requests**.
+- Implemented **java script Routing**.
+- Implemented **front-end template engine - Handlebars**.
+- Implemented **grunt**.
+- **Multilingual** templating.
+- Option to use the application on **your own server**.
 
 Go to the official repository of the application - https://github.com/githubpagejet/GithubPageJet.
 
